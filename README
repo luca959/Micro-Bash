@@ -1,0 +1,20 @@
+MICROBASH
+6 Dicembre 2020
+Laboratorio MicroBash - Sistemi di Elaborazione e Trasmissione dell'Informazione (SETI)
+
+Gruppo formato da: Tommaso Coronati - Luca Ferrari
+
+Informazioni:
+ - Il programma esegue correttamente tutti i comandi richesti nella consegna
+ - E' supportata la redirezione dell' I/O
+ - E' supportata l'esecuzione in pipeline
+ - Per chiudere il programma premere la sequenza di tasti CTRLDX+D oppure scrivere "exit"
+ - L'eseguibile è stato testato con Valgrind, il file di output è rinominato "valgrind-out.txt"
+
+Per la compilazione basta scrivere nel terminale "make", il file eseguibile si chiama "micro_bash"
+
+Per l'avvio
+ - make run
+ - ./micro_bash
+
+
